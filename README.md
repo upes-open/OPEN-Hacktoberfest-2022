@@ -1,6 +1,7 @@
-<!--<div  align=center>
-  <img src=https://blog.tooljet.com/content/images/2022/09/Screenshot-2022-09-27-at-08.03.21.png width=70%>
-</div>-->
+<div  align=center>
+  <img src=https://user-images.githubusercontent.com/101355193/193971042-6a27f42e-faae-4c0c-bc66-625a147521fe.png width=15%>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src=https://raw.githubusercontent.com/github/explore/f47aef15a1c8f22b6fc5c7abf615a918f1322cd6/topics/hacktoberfest/hacktoberfest.png width=15%>
+</div>
 
 ## Guidelines for contributions
 

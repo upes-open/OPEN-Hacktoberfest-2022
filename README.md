@@ -3,7 +3,16 @@
   <img src=https://raw.githubusercontent.com/github/explore/f47aef15a1c8f22b6fc5c7abf615a918f1322cd6/topics/hacktoberfest/hacktoberfest.png width=15%>
 </div>
 
+## Start you Open Source Journey with UPES Open Community :rocket:
 ## Guidelines for contributions
+1. This is a beginner friendly repository. If you any small project from any domain on which you are working and would like to contribute it as a open source project. This is the repo for you.
+2. We are accepting project from any domains.
+3. You can contribute documentation too. 
+4. The documentation must be in the form of article. The topic of article can be technical or non-tech(open source programs, interview experiences, etc).
+5. We have strict policy against plagiarism, so make sure you are not copying anything from anywhere.
+6. Make sure to add references.
+7. If you will follow these guidelines, you are good to go!
+# Happy Contributing :green_heart:
 
 
 ### Do Star ⭐ this Repo then Fork🍴

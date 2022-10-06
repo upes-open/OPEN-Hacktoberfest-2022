@@ -1,6 +1,6 @@
-<div align=center><img src=https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018720eab248248ff88ee3_1bd86e15.png width=30%>
+<div align=center><img src=https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018720eab248248ff88ee3_1bd86e15.png width=10%>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src=https://cdn.worldvectorlogo.com/logos/react-native-1.svg width=40%>
+<img src=https://cdn.worldvectorlogo.com/logos/react-native-1.svg width=20%>
 </div>
 
 # Cross Platform App Development 

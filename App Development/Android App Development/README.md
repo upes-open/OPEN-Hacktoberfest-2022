@@ -5,6 +5,14 @@
 > Add the applications built for android platform.
 
 ## Tech Stack
-[ ]: XML
-[ ]: Java
-[ ]: Kotlin
+- [ ]  XML
+- [ ] Java
+- [ ] Kotlin
+
+### Rules
+
+-   The project should be built using Android Studio.
+-   The project should be built using Java or Kotlin.
+-   The project should be built using XML.
+-   `AndroidManifest.xml` should be present in the project.
+-    The icon of the app should not be the default one.

@@ -33,6 +33,6 @@
 - Add a meaningful message to the PR’s and also mention the solved issue topic
 
 
-This is a good project for beginners to get some hands-on experience
+#### NOTE: If you want us to add other domains, please raise an issue. We will love to hear your suggestions.
 
 
